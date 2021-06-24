@@ -1,3 +1,3 @@
 # firevpn-landing
 
-Demo Link: <https://firevpn.netlify.app>
+Demo Link: <https://firevpn.vercel.app/>
